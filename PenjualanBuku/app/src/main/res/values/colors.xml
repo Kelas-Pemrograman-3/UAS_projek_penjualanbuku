@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#cc0000</color>
+
+    //tambah warna
+    <color name="silver">#BDC3C7</color>
+    <color name="blue">#3399ff</color>
+    <color name="putih">#ffffff</color>
+    <color name="hitam">#000000</color>
+    <color name="abu">#cccccc</color>
+    <color name="birutua">#006699</color>
+    <color name="biruu">#009999</color>
+    <color name="bir">#2ecc71</color>
+
+</resources>
+
